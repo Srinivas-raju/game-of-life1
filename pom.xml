@@ -11,7 +11,7 @@
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>nexus</id>
-      <name>Snapshots</name>
+      <name>snapshots</name>
       <url>http://13.233.155.200:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
         <repository>
